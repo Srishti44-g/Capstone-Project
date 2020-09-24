@@ -3,7 +3,10 @@ Problem based on
 Challenge 1 : Shiftcode
 Challenge 2 : Mastermind
 Challenge 3 : Password
-150 Challenge 146: Shift Code
+
+
+
+Challenge 146: Shift Code
 146: Shift Code
 In this challenge you will need to use the following skills:
  input and display data;
@@ -12,6 +15,9 @@ In this challenge you will need to use the following skills:
  if statements;
  loops (while and for);
  subprograms.
+
+
+
 The Challenge
 A shift code is where a message can be easily encoded and is one of the simplest codes to
 use. Each letter is moved forwards through the alphabet a set number of letters to be
@@ -28,8 +34,13 @@ alphabet).
 If they select 3 it should stop the program from running.
 After they have encoded or decoded a message the menu should be
 displayed to them again until they select quit. 
-Challenge 146: Shift Code 151
+Challenge 146: Shift Code 
 Problems You Will Have to
+
+
+
+
+
 Overcome
 Decide if you want to allow both upper and lower case letters or if you want to convert all
 the data into one case.
@@ -45,7 +56,11 @@ ovugjohsslunl”, which was created with the number 7 when
 the code only uses “abcdefghijklmnopqrstuvwxyz ” (note the
 space at the end).
  
-Challenge 147: Mastermind 153
+
+
+
+
+Challenge 147: Mastermind 
 147: Mastermind
 In this challenge you will need to use the following skills:
  input and display data;
@@ -54,6 +69,8 @@ In this challenge you will need to use the following skills:
  if statements;
  loops (while and for);
  subprograms.
+
+
 The Challenge
 You are going to make an on-screen version of the board game “Mastermind”. The
 computer will automatically generate four colours from a list of possible colours (it should
@@ -71,6 +88,9 @@ should be in. At the end of the game it should display a suitable message and te
 many guesses they took. 
 154 Challenge 147: Mastermind
 Problems You Will Have to
+
+
+
 Overcome
 The hardest part of this game is working out the logic for checking how many the user has
 correct and how many are in the wrong place. Using the example above, if the user enters
@@ -87,7 +107,9 @@ only entering valid data and display a suitable message if they make
 an incorrect selection. If they do make an incorrect selection you
 may want to allow them to enter the data again, rather than class it
 as an incorrect guess. 
-156 Challenge 148: Passwords
+
+
+ Challenge 148: Passwords
 148: Passwords
 In this challenge you will need to use the following skills:
  input and display data;
@@ -96,6 +118,10 @@ In this challenge you will need to use the following skills:
  loops (while and for);
  subprograms;
  saving to and reading from a .csv file.
+
+
+
+
 The Challenge
 You need to create a program that will store the user ID and passwords for the users of a
 system. It should display the following menu:
@@ -121,6 +147,10 @@ If the user selects 3 from the menu, display all the user IDs but not the
 passwords.
 If the user selects 4 from the menu it should stop the program.
 Problems You Will Have to
+
+
+
+
 Overcome
 As existing data in .csv files cannot be edited and can only be read or added to, you will
 need to import the data as a temporary list into Python so you can make the changes before
