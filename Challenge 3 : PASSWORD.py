@@ -1,6 +1,6 @@
 import csv
 file = open("info.csv", "w")
-newRecord = "prankit,Shanu0234#\n"
+newRecord = "sRISHTIg0234#\n"
 file.write(str(newRecord))
 file.close()
 # driver code
