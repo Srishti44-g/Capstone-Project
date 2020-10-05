@@ -1,5 +1,5 @@
 # Capstone-Project
-Problem based on
+**Problem based on
 
 
 # Challenge 1 : Shiftcode
@@ -14,7 +14,7 @@ Problem based on
 
 
 
-Challenge 146: Shift Code
+**Challenge 146: Shift Code
 146: Shift Code
 In this challenge you will need to use the following skills:
  input and display data;
@@ -26,7 +26,7 @@ In this challenge you will need to use the following skills:
 
 
 
-The Challenge
+**The Challenge**
 A shift code is where a message can be easily encoded and is one of the simplest codes to
 use. Each letter is moved forwards through the alphabet a set number of letters to be
 represented by a new letter. For instance, “abc” becomes “bcd” when the code is shifted by
@@ -49,7 +49,7 @@ Problems You Will Have to
 
 
 
-Overcome
+**Overcome**
 Decide if you want to allow both upper and lower case letters or if you want to convert all
 the data into one case.
 Decide if you are allowing punctuation.
@@ -68,7 +68,7 @@ space at the end).
 
 
 
-Challenge 147: Mastermind 
+**Challenge 147: Mastermind 
 147: Mastermind
 In this challenge you will need to use the following skills:
  input and display data;
@@ -79,7 +79,7 @@ In this challenge you will need to use the following skills:
  subprograms.
 
 
-The Challenge
+**The Challenge**
 You are going to make an on-screen version of the board game “Mastermind”. The
 computer will automatically generate four colours from a list of possible colours (it should
 be possible for the computer to randomly select the same colour more than once). For
@@ -99,7 +99,7 @@ Problems You Will Have to
 
 
 
-Overcome
+**Overcome**
 The hardest part of this game is working out the logic for checking how many the user has
 correct and how many are in the wrong place. Using the example above, if the user enters
 “blue”, “blue”, “blue”, “blue” they should see the messages, “Correct colour in the correct
@@ -117,7 +117,7 @@ may want to allow them to enter the data again, rather than class it
 as an incorrect guess. 
 
 
- Challenge 148: Passwords
+ **Challenge 148: Passwords
 148: Passwords
 In this challenge you will need to use the following skills:
  input and display data;
@@ -130,7 +130,7 @@ In this challenge you will need to use the following skills:
 
 
 
-The Challenge
+**The Challenge**
 You need to create a program that will store the user ID and passwords for the users of a
 system. It should display the following menu:
 If the user selects 1, it should ask them to enter a user ID. It should check if the user ID is
@@ -159,7 +159,7 @@ Problems You Will Have to
 
 
 
-Overcome
+**Overcome**
 As existing data in .csv files cannot be edited and can only be read or added to, you will
 need to import the data as a temporary list into Python so you can make the changes before
 the data is written to the .csv file afresh.
