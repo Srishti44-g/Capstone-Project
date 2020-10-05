@@ -2,15 +2,15 @@
 Problem based on
 
 
-Challenge 1 : Shiftcode
+# Challenge 1 : Shiftcode
 
 
 
-Challenge 2 : Mastermind
+# Challenge 2 : Mastermind
 
 
 
-Challenge 3 : Password
+# Challenge 3 : Password
 
 
 
