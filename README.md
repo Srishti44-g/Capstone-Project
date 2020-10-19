@@ -15,14 +15,14 @@
 
 
 **Challenge 146: Shift Code**
-146: Shift Code
+**146: Shift Code
 In this challenge you will need to use the following skills:
  input and display data;
  lists;
  splitting and joining strings;
  if statements;
  loops (while and for);
- subprograms.
+ subprograms.**
 
 
 
@@ -80,7 +80,7 @@ In this challenge you will need to use the following skills:
 
 
 - **The Challenge**
-You are going to make an on-screen version of the board game “Mastermind”. The
+**You are going to make an on-screen version of the board game “Mastermind”. The
 computer will automatically generate four colours from a list of possible colours (it should
 be possible for the computer to randomly select the same colour more than once). For
 instance, the computer may choose “red”, “blue”, “red”, “green”. This sequence should not
@@ -95,7 +95,7 @@ The user continues guessing until they correctly enter the four colours in the o
 should be in. At the end of the game it should display a suitable message and tell them how
 many guesses they took. 
 154 Challenge 147: Mastermind
-Problems You Will Have to
+Problems You Will Have to**
 
 
 
@@ -118,14 +118,14 @@ as an incorrect guess.
 
 
  **Challenge 148: Passwords**
-148: Passwords
+**148: Passwords
 In this challenge you will need to use the following skills:
  input and display data;
  lists;
  if statements;
  loops (while and for);
  subprograms;
- saving to and reading from a .csv file.
+ saving to and reading from a .csv file.**
 
 
 
