@@ -69,18 +69,18 @@ space at the end).
 
 
 **Challenge 147: Mastermind**
-147: Mastermind
+**147: Mastermind
 In this challenge you will need to use the following skills:
  input and display data;
  lists;
  random choice from a list;
  if statements;
  loops (while and for);
- subprograms.
+ subprograms.**
 
 
 - **The Challenge**
-**You are going to make an on-screen version of the board game “Mastermind”. The
+You are going to make an on-screen version of the board game “Mastermind”. The
 computer will automatically generate four colours from a list of possible colours (it should
 be possible for the computer to randomly select the same colour more than once). For
 instance, the computer may choose “red”, “blue”, “red”, “green”. This sequence should not
@@ -95,7 +95,7 @@ The user continues guessing until they correctly enter the four colours in the o
 should be in. At the end of the game it should display a suitable message and tell them how
 many guesses they took. 
 154 Challenge 147: Mastermind
-Problems You Will Have to**
+Problems You Will Have to
 
 
 
